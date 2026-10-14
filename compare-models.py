@@ -292,7 +292,7 @@ CATEGORY_ORDER = [
 ]
 
 def main():
-    data = load_eval_from_csv("evaluation_data.csv")
+    data = load_eval_from_csv("evaluation/evaluation_data.csv")
 
     k = 10
 

@@ -72,7 +72,7 @@ During comparison, `compare-models.py` loads the pretrained `colbert-ir/colbertv
 Before evaluating, provide the separately distributed evaluation CSV at:
 
 ```text
-data/evaluation_data.csv
+data/evaluation/evaluation_data.csv
 ```
 
 Expected columns:
