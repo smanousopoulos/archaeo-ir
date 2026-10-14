@@ -1,0 +1,11 @@
+# Python dependencies for the provided scripts
+# The ColBERT and transformers constraints reproduce the supplied installation command.
+colbert-ai==0.2.22
+transformers<5
+rank_bm25
+sentence-transformers
+datasets
+torch
+numpy
+pandas
+accelerate
